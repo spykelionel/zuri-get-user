@@ -6,7 +6,7 @@ Open a terminal
 1. `git clone <repo_url>`
 2. `cd zuri-get-user`
 3. `npm install`
-4. `node app.js`
+4. `node index.js`
 
 Now your app is running.
 
